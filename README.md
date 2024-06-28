@@ -1,10 +1,10 @@
-### Why Japanese Websites Look So Different & How to Analyze Design Choices Without Jumping to Conclusions
+## Why Japanese Websites Look So Different & How to Analyze Design Choices Without Jumping to Conclusions
 
 ![Why Japanese Websites Look So Different](https://github.com/MdJahidShah/Why-Japanese-Websites-Look-So-Different/blob/main/Why-Japanese-Websites-Look-So-Different.jpg?raw=true)
 
 Over the years, I have had many encounters with Japanese websites—whether researching visa requirements, planning trips, or simply ordering something online. It took me a long time to get used to the walls of text, lavish use of bright colors, and numerous different fonts that sites like these often display. While there are many examples of more minimalistic and easy-to-navigate designs for someone used to Western websites, it is worth examining why this more intricate style remains prevalent in Japan.
 
-#### Fonts & Front-End Website Development Constraints
+### Fonts & Front-End Website Development Constraints
 
 Creating new fonts for Romanized languages can be an enjoyable challenge that anyone with a basic understanding of typography, an appropriate program, and some time on their hands can take on. However, doing the same for the Japanese is an endeavor on a whole other level. For a font created from scratch in English, you'll need 230 glyphs (A, a, and all count as three glyphs) and 840 if you wish to use the Latin alphabet. All languages. For Japanese, as a result of three different writing systems and countless kanji, you can easily see 7,000-16,000 glyphs or more. Thus, creating a new font in Japanese required an organized team effort and much more time than the Latin counterpart.
 
@@ -14,7 +14,7 @@ There are fewer fonts available when creating a website because fewer designers 
 
 As an example, let's look at the Japanese and American versions of the Starbucks homepage: Japanese websites showcase visual content sections with a lot of text. You'll sometimes see each tile using its bespoke typeface, especially when it's a limited-time offer.
 
-#### Technological Development/Stagnation & Institutional Digital Literacy
+### Technological Development/Stagnation & Institutional Digital Literacy
 
 Despite countless discussions of the “Lost Decades” and Japan’s relationship with technological advancements, I like this summary the best: If you harbor an interest in Japan, you might be familiar with the at-times striking dichotomy between state-of-the-art and utterly obsolete technology that are juxtaposed in many places. One of the world leaders in robotics—the country that installed a life-size Gundam statue on the artificial island of Odaiba—is also one of the leaders in reliance on floppy disks and fax machines, with Internet Explorer facing a feared shutdown in 2022.
 
@@ -22,7 +22,7 @@ In Germany, former chancellor Angela Merkel was made fun of nationwide after she
 
 As strange as it may sound to anyone who has not yet had the opportunity to look behind the veil of illusion, Japan is seriously behind schedule in its update in terms of technological literacy. So, it's not far-fetched to assume that these issues have also played a role in holding back Japanese website design. You can see a very different level of graphic design by searching for Japanese poster design on Google or Pinterest.
 
-#### Cultural Influence
+### Cultural Influence
 
 Cultural norms, trends, biases, and preferences should not be underestimated when analyzing design choices of any kind. Still, "it's culture" runs the risk of oversimplifying the issue and using it as an excuse to justify all sorts of differences. And to shed one's own perspective bias is tricky and perhaps not even fully possible.
 
@@ -38,12 +38,12 @@ Back to website design, this cultural perspective clarifies why online shopping,
 
 Interestingly, various studies have shown that Americans and Japanese people process information differently. The Japanese tend to perceive information more holistically, taking in the entire context, while Americans often focus on a single element to direct their attention. This difference in perception helps explain why Westerners might find Japanese websites overwhelming, even if they are proficient in the language.
 
-Conclusion:
+### Conclusion:
 It needs to be said that there are no websites on the Internet. Various media, from magazines to subway ads, use layouts that cram as much information as possible into as little space as possible. People may have become so accustomed to this ubiquitous system that no one has thought to question it.
 
 To make a long story short, this is not an attempt to find an absolute answer to the title question or to reinforce the notion that the Japanese are unique à la nihonjinron (日本人論). Instead, especially after having seen several discussions that focused on one explanation as the “true answer,” I wanted to show the bandwidth of technological, historical, and cultural influences that ultimately shape such differences.
 
-#### Sources & Further Reading
+### Sources & Further Reading
 
 **Fonts & Typography**
 - [Interview with Font Designer Akira Kobayashi](https://www.smashingmagazine.com/2015/04/interview-with-akira-kobayashi/)
